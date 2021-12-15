@@ -1,0 +1,3 @@
+/Users/kyloo/CLionProjects/csa_5/cmake-build-release/CMakeFiles/rebuild_cache.dir
+/Users/kyloo/CLionProjects/csa_5/cmake-build-release/CMakeFiles/edit_cache.dir
+/Users/kyloo/CLionProjects/csa_5/cmake-build-release/CMakeFiles/csa_5.dir
